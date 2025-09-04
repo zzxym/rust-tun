@@ -1,11 +1,11 @@
 [package]
-name = "tun-easytier"
+name = "tun-sdwan"
 version = "1.1.1"
 edition = "2021"
 authors = ["meh. <meh@schizofreni.co>", "@ssrlive", "sijie.sun <sunsijie@buaa.edu.cn>"]
 license = "WTFPL"
 description = "TUN device creation and handling."
-repository = "https://github.com/EasyTier/rust-tun"
+repository = "https://github.com/zzxym/rust-tun"
 keywords = ["tun", "network", "tunnel", "bindings"]
 rust-version = "1.75"
 
